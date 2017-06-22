@@ -16,14 +16,16 @@ public class MatrixManager {
 				result=result*filledMatrix[i][j];
 										
 			}
+						
+				}
+		
 		System.out.println();
 			
-		}
 		
 		System.out.println(result);
 		
 		
 	}
-	
-
 }
+
+
